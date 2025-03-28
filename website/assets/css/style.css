@@ -43,4 +43,25 @@ footer p {
     margin: 0;
     font-family: 'Poppins', sans-serif;
     }
+/* Tagline Oscar */
+.tagline{
+  background-image: url(../../assets/img/bg.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+.tagline-text{
+  text-align: center;
+  font-weight: 400;
+  background-color: #f3f3f3;
 
+}
+h1.tagline-text{
+  font-size: 9vw;
+
+}
+h3.tagline-text{
+  font-size: 5vw;
+  margin-top: 1vw;
+  margin-bottom: 200px;
+
+}
